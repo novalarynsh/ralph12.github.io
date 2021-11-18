@@ -1,0 +1,41 @@
+body {
+    background-color: #273036;
+}
+
+.jumbotron {
+    background-color: rgb(246, 250, 17);
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.btn {
+    background-color: #273036;
+    color: rgb(246, 250, 17);
+}
+
+@font-face {
+    font-family: cream-DEMO;
+    src: url(font/cream-DEMO.ttf);
+}
+
+h1, h2, h3 {
+    color: rgb(246, 250, 17);
+    font-family: cream-DEMO;
+}
+
+.card {
+    background-color: rgb(246, 250, 17);
+}
+
+.progress-badge {
+    color:rgb(246, 250, 17);
+}
+
+.progress-bar {
+    background-color: rgb(246, 250, 17);
+    color: #273036;
+}
+
+#gallery {
+    background-color: rgb(246, 250, 17);
+}
